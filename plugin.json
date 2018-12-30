@@ -1,0 +1,21 @@
+{
+    "name": "LoginTokenAuth",
+    "version": "3.0.0",
+    "description": "Sign in to Matomo over api using the Users token_auth.",
+    "require": {
+        "piwik": ">=3.0.0-b1,<4.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "Dennis Hemeier",
+            "email": "support@hd-cms.de",
+            "homepage": "https://www.hd-cms.de"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/matomo-org/plugin-LoginTokenAuth/issues",
+        "source": "https://github.com/matomo-org/plugin-LoginTokenAuth"
+    },
+    "license": "GPL v3+",
+    "keywords": ["authentication", "tokenAuth", "login"]
+}
