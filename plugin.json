@@ -13,8 +13,9 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/matomo-org/plugin-LoginTokenAuth/issues",
-        "source": "https://github.com/matomo-org/plugin-LoginTokenAuth"
+        "email": "support@hd-cms.de",
+        "issues": "https://github.com/HD-CMS/matomo-plugin-LoginTokenAuth/issues",
+        "source": "https://github.com/HD-CMS/matomo-plugin-LoginTokenAuth"
     },
     "license": "GPL v3+",
     "keywords": ["authentication", "tokenAuth", "login"]

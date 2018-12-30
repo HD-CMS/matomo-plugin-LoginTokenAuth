@@ -6,12 +6,8 @@ This plugin extends the standard Matomo authentication to allow `token_auth` Aut
 
 How do I setup LoginTokenAuth using Matomo?
 
-* Upload the plugin files to your Matomo installation
-    * Rename the downloaded directory to `LoginTokenAuth`
-    * Upload directory to plugins
-    * Default Plugins path `/matomo_directory/plugins/`
-* Login to your Matomo as Super User. Click Settings, then click Plugins.
-* Active the `LoginTokenAuth` plugin.
+* Login your Matomo as Super User. Click Settings, then click Marketplace.
+* Install the LoginTokenAuth plugin, then click Activate.
 * Login over the implemented logme method:
 
     `https://matomo.example.com/index.php?module=LoginTokenAuth&action=logme&token_auth=YOUR_TOKEN_STRING`
