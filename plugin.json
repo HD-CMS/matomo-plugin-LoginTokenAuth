@@ -2,11 +2,12 @@
     "name": "LoginTokenAuth",
     "description": "Sign in to Matomo over api using the Users token_auth.",
     "version": "5.0.0",
+    "theme": false,
     "license": "GPL v3+",
     "keywords": ["authentication", "tokenAuth", "login"],
     "homepage": "https://www.hd-cms.de",
     "require": {
-        "piwik": ">=3.0.0-b1,<6.0.0-b1"
+        "matomo": ">=5.0.0-stable,<6.0.0-b1"
     },
     "authors": [
         {
